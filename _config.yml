@@ -1,0 +1,28 @@
+name: Agglo
+favicon: null
+layout_spectrum: 0.5271779631730169
+typography_spectrum: 0.11689959047362208
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.808468095259741
+  lightness: 0.5014300728216767
+  saturation: 0.80820332467556
+  rhythmicContrast: 0.9302487317472696
+purpose: []
