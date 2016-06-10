@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Agglo]]></title>
-        <description><![CDATA[Agglo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Blockchain Advisory Services]]></title>
+        <description><![CDATA[Blockchain Advisory Services]]></description>
+        <link>https://thegrid.ai/agglo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 21:19:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 23:35:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agglo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>AGGLO</p>]]></description>
+            <link>https://thegrid.ai/agglo/agglo/index.html</link>
+            <guid isPermaLink="false">4f207b6e-4131-4d9c-827f-ee98f3be3f3a</guid>
+            <pubDate>Fri, 10 Jun 2016 23:35:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Blockchain Advisory Services</p>]]></description>
-            <link>undefinedad680f3a-4107-4311-91a2-2cb569d67767/index.html</link>
+            <link>https://thegrid.ai/agglo/ad680f3a-4107-4311-91a2-2cb569d67767/index.html</link>
             <guid isPermaLink="false">ad680f3a-4107-4311-91a2-2cb569d67767</guid>
             <pubDate>Sun, 20 Mar 2016 21:19:10 GMT</pubDate>
         </item>
