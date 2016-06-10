@@ -1,6 +1,6 @@
 name: Agglo
 favicon: null
-layout_spectrum: 0.96426
+layout_spectrum: 0.34357
 typography_spectrum: 0.95495
 title: Blockchain Advisory Services
 cta:
@@ -22,7 +22,7 @@ color:
     - '#525963'
     - '#8c939b'
     - '#bec5cd'
-  brandStrength: 0.375
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0.5
